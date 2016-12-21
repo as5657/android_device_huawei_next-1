@@ -2,8 +2,8 @@ Device configuration for Huawei Mate 8
 =====================================
 ![android: 7.0.1](https://img.shields.io/badge/android:-7.1.x-blue.svg "booting-no")
 ![device target: NXT-xxx](https://img.shields.io/badge/device target:-NXT_xxx-blue.svg "device target-NXT-xxx")
-![building: no](https://img.shields.io/badge/building:-yes-red.svg "building-no")
-![booting: no](https://img.shields.io/badge/booting:-yes-red.svg "booting-no")
+![building: no](https://img.shields.io/badge/building:-no-red.svg "building-no")
+![booting: no](https://img.shields.io/badge/booting:-no-red.svg "booting-no")
 <br/><br/>
 **Porting state :** [click here](https://github.com/PaulFasola/android_device_huawei_next/projects/2)
 
